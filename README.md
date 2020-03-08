@@ -78,4 +78,3 @@
 <p> 
 <h4>Summary</h4>
 <p> Although we've established an excellent model with auc of 0.9093 and successfully discovered its business value, there still exists some space for us to explore. We can go further with more available data, and also more features - for example, the cities our developers live in, the industry our developers contributes to and their salaries. Maybe we can keep our model updated with these further data in the future maintenance. Moreover, to make our model more user-friendly, we can build a mobile application based on it, so non-technical people can use it too.
-<li>
