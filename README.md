@@ -1,9 +1,34 @@
 # Stackoverflow_SDE-JobSeekingStatus
-<p><strong>Business Analytics Project</strong>
+<p><strong>Business Analytics Project: Applying Machine Learning Models</strong>
 <p> 
 <p>Thank all my teammates for their commitment to this project!  (last name in alphabetic order):
 <p><strong>Yichang Chen, Rui Han, Varoon Kitayaporn, Chenxuerui Li</strong>
-
+<ul>
+<li>DataSource
+    <ul>
+    <li>developer_survey_2018: including the download link of our data source
+    <p><a href="https://insights.stackoverflow.com/survey">
+           StackOverflow Survey
+           </a></p></li>
+    <p><a href="https://insights.stackoverflow.com/survey">
+    StackOverflow Official Published Results
+    </a></p></li>
+        <li>Feature treatment.xlsx: for reference</li>
+        <li>PreprocessedData.csv: the data was preprocessed in R, Python and Tableau by different people</li>
+    </ul>
+</li>
+<li>Code: in Jupyter notebook format.
+    <ul>
+    <li>Basic_clean_v1.ipynb, Split_and_categorize.ipynb: data preprocessing in python</li>
+    <li>KNN_BA.ipynb, machinelearningmodel.ipynb, Model_Final.ipynb: modeling part completed by different people.<strong>Please notice the difference in data file name used in their codes.</strong></li>
+    <li>Business Analytics Visualization.ipynb: data visualization in pyplot.</li>
+    </ul>
+</li>
+<li>Final Deliverables: project report and presentation materials.</li>
+</ul>
+<p> 
+<p>_______________________________________________________________
+<p> 
 <h4>Overview</h4>
 <p> 
 <p>The business of headhunting is very competitive and doing headhunting in the traditional way like skimming through resumes and cold calling to random people is quite inefficient. We would like to provide a tool to increase headhunters’ efficiency to find people who want to get a new job, thus reducing cost and increasing the profits.
